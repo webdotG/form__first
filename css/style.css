@@ -1,0 +1,70 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.form-wrapper {
+    width: 750px;
+    min-height: 250px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
+h1 {
+    font-size: 25px;
+    margin: 0;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.form-first {
+    width: 550px;
+    min-height: 150px;
+    margin: 0 auto;
+}
+
+.login {
+    padding-bottom: 25px;
+}
+
+.login__label {
+    padding-right: 37px;
+    font-size: 20px;
+}
+
+.login__input {
+    width: 75px;
+}
+
+.password {
+    padding-bottom: 25px;
+}
+
+.password__label {
+    padding-right: 15px;
+    font-size: 20px;
+}
+
+.password__input {
+    width: 75px;
+}
+
+.submit {
+    width: 100%;
+}
+
+.submit__input {
+    width: 100px;
+    height: 50px;
+    padding: 0;
+    margin-left: -10px;
+    font-size: 20px;
+    border: none;
+    background-color: initial;
+}
+
+
+
+
+
+
